@@ -1,12 +1,12 @@
 {
-    "name": "themsaid/wink",
-    "description": "Wink Publishing Framework.",
+    "name": "joshua/wink-10-update",
+    "description": "Wink Publishing Framework for laravel 10.",
     "keywords": ["framework", "laravel", "blog"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohamed Said",
-            "email": "mohamed@laravel.com"
+            "name": "Joshua Sigaban",
+            "email": "joshuasigaban@icloud.com"
         }
     ],
     "require": {
